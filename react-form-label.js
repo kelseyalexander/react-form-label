@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './scss/react-form-label.scss';
+import './react-form-label.scss';
 
 export default class ReactFormLabel extends React.Component {
     constructor(props) {
